@@ -1,4 +1,4 @@
-# Prédiction et Analyse du Churn des Clients de Télécommunications
+# Prédiction et Analyse du Churn des Clients
 
 Ce projet explore les **techniques d'analyse de données** et de **machine learning** pour prédire la résiliation des abonnements (*churn*) dans le secteur des télécommunications. En plus de construire un modèle prédictif, une **analyse exploratoire approfondie** a été réalisée pour identifier les principaux facteurs influençant le churn, fournissant ainsi des insights exploitables pour améliorer la rétention des clients.
 
